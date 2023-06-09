@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ajnatha",
+      "email": "ajnatha@gmail.com",
+      "password": "ajnatha123",
+      "phone": "9876543219",
+      "dob": "01/01/2001",
+      "pic": "https://scontent.fblr2-1.fna.fbcdn.net/v/t1.6435-9/92388943_1813231175479573_580226021282807808_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wd1fZfidEMQAX_pqCMJ&_nc_ht=scontent.fblr2-1.fna&oh=00_AfAT1wPfjJm-PkmtZ_KcPMdzctYuq-dnlWW88lXjLnYFSQ&oe=64983FBD",
+      "gender": "male",
+      "active_bookings": [
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA01E342",
+          "seats": 1,
+          "from": "Bengaluru",
+          "to": "Kodagu",
+          "start": "6:00am",
+          "end": "2:00pm",
+          "journey_time": "8",
+          "price": 600,
+          "date": "2023-06-23"
+        }
+      ],
+      "previous_bookings": [
+        {
+          "busname": "Sri Durgamba",
+          "busnumber": "KA53EJ3420",
+          "seats": 1,
+          "from": "Bengaluru",
+          "to": "Udupi",
+          "start": "9:45pm",
+          "end": "06:45am",
+          "journey_time": "7",
+          "price": 800,
+          "date": "2023-05-30"
+        },
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA01E342",
+          "seats": "2",
+          "from": "Bengaluru",
+          "to": "Kodagu",
+          "start": "6:00am",
+          "end": "2:00pm",
+          "journey_time": "8",
+          "price": 1200,
+          "date": "2023-05-29"
+        },
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA01E342",
+          "seats": "2",
+          "from": "Bengaluru",
+          "to": "Mandya",
+          "start": "6:00am",
+          "end": "9:30am",
+          "journey_time": "3.5",
+          "price": 400,
+          "date": "2023-05-29"
+        },
+        {
+          "busname": "Garuda",
+          "busnumber": "KA02G567",
+          "seats": "2",
+          "from": "Mysuru",
+          "to": "Hubballi",
+          "start": "8:30am",
+          "end": "4:30pm",
+          "journey_time": "8",
+          "price": 900,
+          "date": "2023-05-24"
+        }
+      ]
+    }
+  ]
+}

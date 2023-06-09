@@ -1,0 +1,43 @@
+{
+    "flight": [
+        {
+          "id": 1,
+          "flightname": "AirIndia",
+          "seats": "30",
+          "booked_seats": 20,
+          "from": "Bengaluru",
+          "to": "Mangaluru",
+          "start": "6:00am",
+          "end": "7:00am",
+          "price": "3000",
+          "rating": "9",
+          "journey_time": "1"
+        },
+        {
+            "id": 2,
+            "flightname": "Kingfidher",
+            "seats": "30",
+            "booked_seats": 21,
+            "from": "Bengaluru",
+            "to": "Hubbli",
+            "start": "8:00am",
+            "end": "9:00am",
+            "price": "3200",
+            "rating": "8",
+            "journey_time": "1"
+          },
+          {
+            "id": 3,
+            "flightname": "Indigo",
+            "seats": "30",
+            "booked_seats": 23,
+            "from": "Bengaluru",
+            "to": "Belagavi",
+            "start": "10:00am",
+            "end": "11:00am",
+            "price": "3500",
+            "rating": "8",
+            "journey_time": "1"
+          }
+    ]
+}
