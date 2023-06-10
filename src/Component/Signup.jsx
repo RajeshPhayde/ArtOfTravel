@@ -104,7 +104,7 @@ const Signup = () => {
 
     return ( 
         <div className="account">
-            <h1 style={{textAlign : "center", color : `#05005aa1` }}>SignUp</h1>
+            <h1 style={{textAlign : "center", color : `#05005aa1` }}>ArtOfTravel</h1>
             <form onSubmit={handleSignup}>
                 <input id="inp" type="text" placeholder="Enter Username" required ref={uname}/>
                 <input id="inp" type="email" placeholder="Enter email id" required ref={mail}/>

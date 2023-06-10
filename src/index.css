@@ -38,6 +38,11 @@ code {
   text-align: center;
   position: relative;
 }
+.account h1{
+  font-family: 'Sacramento', cursive;
+  display: inline-block;
+  color: red;
+}
 #inp{
   width: 80%;
   height: 35px;

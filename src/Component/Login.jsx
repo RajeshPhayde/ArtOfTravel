@@ -53,7 +53,7 @@ const Login = () => {
 
     return ( 
         <div className="account">
-            <h1 style={{textAlign : "center", color : `#05005aa1`}}>Login</h1>
+            <h1 style={{textAlign : "center", color : `#05005aa1`}}>ArtOfTravel</h1>
             <form onSubmit={login}>
                 <input id="inp" type="email" placeholder="Enter Email / Phone" required ref={email}/>
                 <input id="inp" type="password" placeholder="Enter Password" required ref={pwd}/>
